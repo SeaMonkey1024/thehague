@@ -1,0 +1,45 @@
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: white;
+}
+
+.wrapper {
+  font-family: sans-serif;
+  width: 70%;
+  margin: 0 auto;
+  left: 55%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+img {
+  display: block;
+  width: 80%;
+  height: auto;
+  transition: .3s;
+}
+.wrapper:hover img {
+  filter: grayscale(100%) contrast(200%);
+}
+span {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: red;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 2.0em;
+  opacity: 0;
+}
+.wrapper:hover :not(img){
+  opacity: 1;
+}

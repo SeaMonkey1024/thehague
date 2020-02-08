@@ -29,57 +29,6 @@ img {
 .wrapper:hover img {
   filter: grayscale(100%) contrast(200%);
 }
-span {
-  position: absolute;
-  top: 45%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: red;
-  font-weight: bold;
-  text-transform: uppercase;
-  font-size: 2.0em;
-  opacity: 0;
-}
 .wrapper:hover :not(img){
   opacity: 1;
-}
-
-@media ( max-width: 767px ) {
-  span {
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: red;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 1.0em;
-    opacity: 0;
-  }
-}
-@media ( max-width: 500px ) {
-  span {
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: red;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 0.9em;
-    opacity: 0;
-  }
-}
-@media ( max-width: 400px ) {
-  span {
-    position: absolute;
-    top: 45%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: red;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 0.6em;
-    opacity: 0;
-  }
 }

@@ -28,7 +28,7 @@
   padding-right: 15px;
 }
 .banner .enqu {
-  font-family: 'Zhi Mang Xing', cursive;
+  font-family: 'Oswald', ;
   font-size: 2em;
 }
 .banner .koqu {
@@ -38,25 +38,25 @@
 }
 @media ( max-width: 1015px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 1.7em;
   }
 }
 @media ( max-width: 865px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 1.5em;
   }
 }
 @media ( max-width: 770px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 1.4em;
   }
 }
 @media ( max-width: 735px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 1.2em;
   }
   .banner .koqu {
@@ -67,7 +67,7 @@
 }
 @media ( max-width: 620px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 1.0em;
   }
   .banner .koqu {
@@ -78,7 +78,7 @@
 }
 @media ( max-width: 525px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 0.9em;
   }
   .banner .koqu {
@@ -89,7 +89,7 @@
 }
 @media ( max-width: 480px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 0.8em;
   }
   .banner .koqu {
@@ -100,7 +100,7 @@
 }
 @media ( max-width: 430px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 0.75em;
   }
   .banner .koqu {
@@ -111,7 +111,7 @@
 }
 @media ( max-width: 400px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 0.7em;
   }
   .banner .koqu {
@@ -122,7 +122,7 @@
 }
 @media ( max-width: 375px ) {
   .banner .enqu {
-    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Oswald', ;
     font-size: 0.65em;
   }
   .banner .koqu {
